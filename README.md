@@ -32,7 +32,7 @@ class Attributes:
         langs = {
             'expert': ['Python'],
             'intermediate': ['Go', 'JavaScript'],
-            'learning': ['C', 'C++', 'C#', 'Assembly', 'Java']
+            'learning': ['JavaScript']
         }
         specialities = ['Web/App reverse engineering', 'Fullstack']
         environment = ['VSCode', 'PyCharm']
