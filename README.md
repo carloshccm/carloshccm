@@ -43,7 +43,7 @@ class Attributes:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <div><p align="center"><img src="https://skillicons.dev/icons?i=vscode,python,flask,django,linux,mysql" /></div>
+    <div><p align="center"><img src="https://skillicons.dev/icons?i=vscode,python,flask,django,react,linux,mysql" /></div>
     <div><p align="center"><img src="https://skillicons.dev/icons?i=wordpress,cloudflare,aws,azure,js,css,html,github" /></div>
   </a>
 </p>
